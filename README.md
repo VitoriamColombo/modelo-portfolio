@@ -1,6 +1,7 @@
 ## 💻 Projeto Portfólio (Curso de HTML e CSS)
   
-### ✨Projeto desenvolvido durante o curso de HTML e CSS da Alura, meu primeiro contato prático com o desenvolvimento Front-End. Foi nele que aprendi a estruturar páginas, aplicar estilos e percebi o quanto gosto de transformar ideias em sites reais.✨
+### ✨Projeto desenvolvido durante o curso de HTML e CSS da Alura, meu primeiro contato prático com o desenvolvimento Front-End. 
+### Foi nele que aprendi a estruturar páginas, aplicar estilos e percebi o quanto gosto de transformar ideias em sites reais.✨
 ---
 
 ## 🚀 Tecnologias utilizadas
