@@ -43,4 +43,4 @@
 
 ---
 
-Feito com ❤️ por [Vi](https://github.com/VitoriamColombo)
+Feito com 💖 por [Vi](https://github.com/VitoriamColombo)
