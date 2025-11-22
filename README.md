@@ -53,9 +53,9 @@
 #### 📱 Versão Mobile
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95fd4842-f616-49d9-87a1-494102e2ca1c" width="320" alt="Tela inicial mobile" />
+  <img src="https://github.com/user-attachments/assets/95fd4842-f616-49d9-87a1-494102e2ca1c" width="220" alt="Tela inicial mobile" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/75e0b750-4150-4b7a-a5f0-8a9ab509e5eb" width="320" alt="Tela sobre mim mobile" />
+  <img src="https://github.com/user-attachments/assets/75e0b750-4150-4b7a-a5f0-8a9ab509e5eb" width="220" alt="Tela sobre mim mobile" />
 </p>
 
 ---
