@@ -38,9 +38,9 @@
 
 ---
 
-### 📸 Prévia do projeto
+### 📸 Prévia do projeto:
 
-#### 💻 Versão Web
+💻 Versão Web:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/9e03a3d8-fbeb-44bd-8e14-8d9178da3723" width="320" alt="Tela inicial web" />
@@ -50,7 +50,7 @@
 
 ---
 
-#### 📱 Versão Mobile
+📱 Versão Mobile:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/95fd4842-f616-49d9-87a1-494102e2ca1c" width="220" alt="Tela inicial mobile" />
@@ -60,6 +60,8 @@
 
 ---
 
-<p align="center">
+<div align="center">
+  
 Feito com 💖 por [Vi](https://github.com/VitoriamColombo)
-</p>
+
+</div>
