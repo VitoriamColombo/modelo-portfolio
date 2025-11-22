@@ -36,10 +36,20 @@
 🔗 **Acesse o projeto publicado:**  
 [https://vitoriamcolombo.github.io/modelo-portfolio/](https://vitoriamcolombo.github.io/modelo-portfolio/)
 
-### 🎨 Design no Figma
+### 💻 Versão Web: 
 
-💻 **Versão Web:** [Ver design no Figma](https://www.figma.com/design/oujgI9k0hpMeeb6VIiMu3J/Curso-4---HTML-e-CSS--trabalhando-com-responsividade-e-publica%C3%A7%C3%A3o-de-projetos--Portf%C3%B3lio---Community-?node-id=0-1&m=dev&t=wfq1LVSOeEUgy9Uq-1)  
-📱 **Versão Mobile:** [Ver design no Figma](https://www.figma.com/design/NrzJacC887svMVfF9oC2jM/Portfolio-Projeto-2?node-id=9-5&m=dev&t=30jTlSY9Rr78ZPvu-1)
+<p>
+  <img src="https://github.com/user-attachments/assets/9e03a3d8-fbeb-44bd-8e14-8d9178da3723" width="420" alt="Tela inicial web" />
+  <img src="https://github.com/user-attachments/assets/e8160452-4efb-4f34-b923-54a32da20d53" width="420" alt="Tela sobre mim web" />
+</p>
+
+### 📱 Versão mobile:
+
+<p>
+  <img src="https://github.com/user-attachments/assets/95fd4842-f616-49d9-87a1-494102e2ca1c" width="220" alt="Tela inicial" />
+  <img src="https://github.com/user-attachments/assets/75e0b750-4150-4b7a-a5f0-8a9ab509e5eb" width="220" alt="Tela sobre mim" />
+</p>
+
 
 ---
 
