@@ -34,7 +34,7 @@
 ---
 
 ### 🔗 Acesse o projeto publicado: 
-[https://vitoriamcolombo.github.io/modelo-portfolio/](https://vitoriamcolombo.github.io/modelo-portfolio/)
+👉🏻 <a href="https://vitoriamcolombo.github.io/modelo-portfolio/" target="_blank" rel="noopener noreferrer">Ver site online</a>
 
 ---
 
