@@ -1,7 +1,8 @@
-## 💻 Projeto Portfólio (Curso de HTML e CSS)
+## 💻 Projeto Portfólio
   
-### ✨Projeto desenvolvido durante o curso de HTML e CSS da Alura, meu primeiro contato prático com o desenvolvimento Front-End. 
-### Foi nele que aprendi a estruturar páginas, aplicar estilos e percebi o quanto gosto de transformar ideias em sites reais.✨
+### ✨Meu primeiro projeto no Front-End
+### Desenvolvido durante o curso de HTML e CSS da Alura, foi nele que aprendi a estruturar páginas, aplicar estilos e percebi o quanto gosto de transformar ideias em sites reais.✨
+
 ---
 
 ## 🚀 Tecnologias utilizadas
@@ -43,19 +44,20 @@
 💻 Versão Web:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9e03a3d8-fbeb-44bd-8e14-8d9178da3723" width="320" alt="Tela inicial web" />
+  <img src="https://github.com/user-attachments/assets/d6092bdb-e3a9-4478-b453-b0054879c7d1" width="320" alt="Tela inicial web" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/e8160452-4efb-4f34-b923-54a32da20d53" width="320" alt="Tela sobre mim web" />
+  <img src="https://github.com/user-attachments/assets/1c1e4049-2e78-4cd3-8575-cbefcc7f3cb1" width="320" alt="Tela sobre mim web" />
 </p>
 
 ---
 
 📱 Versão Mobile:
 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/95fd4842-f616-49d9-87a1-494102e2ca1c" width="220" alt="Tela inicial mobile" />
+  <img src="https://github.com/user-attachments/assets/e71b9570-a66c-42c3-b9ec-db33f864851e" width="220" alt="Tela inicial mobile" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github.com/user-attachments/assets/75e0b750-4150-4b7a-a5f0-8a9ab509e5eb" width="220" alt="Tela sobre mim mobile" />
+  <img src="https://github.com/user-attachments/assets/6b53f726-a52a-4844-a85f-5b20dd8fe9d9" width="220" alt="Tela sobre mim mobile" />
 </p>
 
 ---
